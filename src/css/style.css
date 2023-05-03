@@ -142,18 +142,19 @@ h1{
     height: 101px;
     display: flex;
     align-items: center;
+    flex-direction: column;
     justify-content: center;
 }
 
 .vasco{
-    height: 100px;
+    height: 80px;
     position: relative;
-    right: 500px;
+    left: 45px;
 }
 
 .final{
-    color: #ffffff;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Shot', Times, serif; 
+    color: #fff;
     position: relative;
-    right: 50px;
+    left: 10px;
 }
